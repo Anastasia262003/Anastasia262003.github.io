@@ -1,0 +1,112 @@
+header {
+	text-align: center;
+	background: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614376770_3-p-fon-dlya-storis-v-instagram-odnotonnii-sve-3.jpg") ;
+	height: 200px;
+	display: grid;
+	vertical-align: middle;
+	width: 100%;
+}
+
+body {
+	background: #fffdd0;
+}
+
+nav, ul, li {
+	display: inline;
+	text-align: center;
+}
+
+nav, ul, li, a {
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+	font-size: 20px;
+}
+
+li {
+	list-style-type: none;
+}
+
+h1 {
+	color: #fff;
+	font-size: 30px;
+	font-style: bold;
+}
+
+content {
+	width: 100%;
+}
+
+p {
+	font-size: 18px;
+}
+
+img {
+	width: 100%;
+}
+
+div.content-in {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	background: url("https://phonoteka.org/uploads/posts/2021-05/1621825498_20-phonoteka_org-p-fon-yaziki-24.jpg") ;
+ } div.left-block  {
+	width: 320px;
+	height: 100%;
+	background: #000;
+	color: #fff;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div.left-block p {
+	font-size: 16px;
+}
+
+div.news {
+}
+
+div.home {
+	padding: 0 20px;
+	width: 100%;
+	height: 100%;
+}
+
+div.left-block .actions {
+
+}
+
+div.left-block .block {
+	border: 1px solid white;
+	text-align: center;
+	padding: 15px 15px;
+}
+footer {
+    width: 100%;
+    height: 100%;
+    background: #000;
+}
+
+div.footer-in {
+    display: flex;
+    text-align: center;
+    padding: 20px;
+}
+
+div.footer-in a img {
+    width: 50px;
+}
+
+input {
+    border: none;
+    background: none;
+    color: #fff;
+}
+
+
+
+
+
+
+
